@@ -1,6 +1,5 @@
 p {
   width: 500px;
-  border: 1px dashed black;
 }
 
 html {
@@ -20,4 +19,12 @@ h1 {
   padding: 20px 0;    
   color: #00539F;
   text-shadow: 3px 3px 1px black;
+}
+
+.quote {
+  border: 1px dashed black;
+}
+
+#corevalues {
+  border: 7px solid black;
 }
